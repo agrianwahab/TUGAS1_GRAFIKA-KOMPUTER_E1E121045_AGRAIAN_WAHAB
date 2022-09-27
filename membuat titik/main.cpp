@@ -65,13 +65,13 @@ void draw(void)
     glVertex3f(7.0,6.0,0.0);
 
 
-    glVertex3f(7.0,6.0,0.0);
+    glVertex3f(7.0,6.0,0.0);    // Garis KEDUA
     glVertex3f(4.0,9.0,0.0);
 
-    glVertex3f(4.0,9.0,0.0);
+    glVertex3f(4.0,9.0,0.0);    // Garis KETIGA
     glVertex3f(1.0,6.0,0.0);
 
-    glVertex3f(1.0,6.0,0.0);
+    glVertex3f(1.0,6.0,0.0);    // Garis KEEMPAT
     glVertex3f(4.0,3.0,0.0);
 
 
